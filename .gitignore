@@ -1,0 +1,8 @@
+# 家計簿データベース
+kakeibo.db
+
+# CSVの家計簿データ
+expenses.csv
+
+# Pythonのキャッシュ
+__pycache__/
